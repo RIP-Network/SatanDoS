@@ -4,6 +4,8 @@ Herramienta de DoS funcional y potente, esta es una herramienta de denegación d
 
 Aviso, está herramienta es compatible tanto para termux como para Linux pero necesita tener unos componentes decentes para que la herramienta pueda funcionar bien y no se crashee el teléfono o ordenador a la hora de ejecutarlo.
 
+Cuando la herramienta termine de aparecerte en la terminal el ataque seguirá estando activando activo en segundo plano durante un tiempo.
+
 # Análisis web
 
 Esta herramienta tiene añadido un scanner para analizar la web y ver el tiempo de respuesta para poder ajustar la manera del ataque y la potencia.
