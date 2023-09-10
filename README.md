@@ -35,8 +35,9 @@ $ ./SatanDoS
 ```
 # Aviso
 
-Esta herramienta una vez se ejecute tendrás que esperar a que acabe la ejecución ya que no se podrá cancelar, reiniciar el dispositivo en medio uso o ejecutarla con componentes débiles puede causar algún error fatal. 
+Esta herramienta una vez se ejecute tendrás que esperar a que acabe la ejecución ya que no se podrá cancelar, reiniciar el dispositivo en medio uso o ejecutarla con componentes débiles puede causar algún error fatal.
 
+[![Logo de GitHub](https://cdn.wallpapersafari.com/34/82/YRzXPk.jpeg)](https://github.com/)
 
 # Banner 
 
