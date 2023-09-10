@@ -31,7 +31,9 @@ $ ./install.sh
 
 $ chmod +x * SatanDoS
 
-$ ./SatanDoS
+$ chmod +x * modules/DoS
+
+$ ./SatanDoS -h
 ```
 # Aviso
 
