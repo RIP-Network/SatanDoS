@@ -8,11 +8,11 @@ Aviso, está herramienta es compatible tanto para termux como para Linux pero ne
 
 Esta herramienta tiene añadido un scanner para analizar la web y ver el tiempo de respuesta para poder ajustar la manera del ataque y la potencia.
 
-<p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/SatanDoS/blob/main/logo.png](https://github.com/RIP-Network/SatanDoS/blob/main/Fotos/logo.png"> </p>
+<p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/SatanDoS/blob/main/Fotos/logo.png"> </p>
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/SatanDoS-red"/></p>
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.0-red.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-2.2-red.svg?style=for-the-badge"/></p>
 
 # Instalacion
 
