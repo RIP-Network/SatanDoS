@@ -1,0 +1,9 @@
+beautifulsoup4
+selenium
+scrapy
+requests
+pyquery
+lxml
+mechanicalsoup
+tesserocr
+gevent
