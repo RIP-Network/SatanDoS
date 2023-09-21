@@ -8,3 +8,5 @@ mechanicalsoup
 tesserocr
 gevent
 termcolor
+argparse
+
