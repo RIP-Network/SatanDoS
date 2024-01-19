@@ -27,13 +27,9 @@ $ git clone https://github.com/RIP-Network/SatanDoS
 
 $ cd SatanDoS
 
-$ chmod +x * install.sh
+$ chmod 777 install.sh
 
 $ ./install.sh
-
-$ chmod +x * SatanDoS
-
-$ chmod +x * modules/DoS
 
 $ ./SatanDoS -h
 ```
