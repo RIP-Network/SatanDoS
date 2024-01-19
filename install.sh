@@ -12,9 +12,7 @@ apt-get update
 sleep 1
 pip3 install -r requeriments.txt
 sleep 1
-chmod +x * SatanDoS
-chmod +x * modules/DoS
-chmod +x * modules/Term
+chmod 777 *
 sleep 1
 clear
 echo "Instalación Terminada"
